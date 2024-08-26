@@ -12,11 +12,8 @@ Bu proje, Spotify çalma listenizdeki şarkıları alıp, YouTube'daki bir oynat
 ## Kurulum
 
 
-### 1. Gerekli Python Kütüphanelerini Yükleyin
-
-Gerekli kütüphaneleri yüklemek için aşağıdaki komutları terminalde çalıştırın:
-
-```bash
+1. Gerekli Python Kütüphanelerini Yükleyin
+Gerekli Kütüphaneleri yüklemek için aşağıdaki komutları terminalde çalıştırın:
 pip install spotipy google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client python-dotenv
 
 
