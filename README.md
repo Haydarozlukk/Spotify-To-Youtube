@@ -11,30 +11,6 @@ Bu proje, Spotify çalma listenizdeki şarkıları alıp, YouTube'daki bir oynat
 
 ## Kurulum
 
-### 1. Gerekli Python Kütüphanelerini Yükleyin
-
-Gerekli kütüphaneleri yüklemek için aşağıdaki komutları terminalde çalıştırın:
-
-```bash
-pip install spotipy google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client python-dotenv
-
-
-İşte projeyi GitHub'a yüklerken kullanabileceğiniz tek bir README.md dosyası:
-
-markdown
-Kodu kopyala
-# Spotify to YouTube Integration
-
-Bu proje, Spotify çalma listenizdeki şarkıları alıp, YouTube'daki bir oynatma listesine ekleyen bir Python botudur.
-
-## Gereksinimler
-
-- Python 3.7 veya üzeri
-- `spotipy` kütüphanesi
-- `google-auth`, `google-auth-oauthlib`, `google-auth-httplib2`, `google-api-python-client` kütüphaneleri
-- `python-dotenv` kütüphanesi
-
-## Kurulum
 
 ### 1. Gerekli Python Kütüphanelerini Yükleyin
 
