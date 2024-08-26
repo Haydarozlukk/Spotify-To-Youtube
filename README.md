@@ -11,6 +11,8 @@ Bu proje, Spotify çalma listenizdeki şarkıları alıp, YouTube'daki bir oynat
 
 ## Kurulum
 
+```bash
+
 
 1. Gerekli Python Kütüphanelerini Yükleyin
 Gerekli Kütüphaneleri yüklemek için aşağıdaki komutları terminalde çalıştırın:
