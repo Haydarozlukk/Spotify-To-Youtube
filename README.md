@@ -22,7 +22,7 @@ pip install spotipy google-auth google-auth-oauthlib google-auth-httplib2 google
 2. Ortam Değişkenlerini Ayarlayın
 Proje kök dizininde bir .env dosyası oluşturun ve aşağıdaki bilgileri ekleyin:
 
-makefile
+
 Kodu kopyala
 SPOTIPY_CLIENT_ID=your_spotify_client_id
 SPOTIPY_CLIENT_SECRET=your_spotify_client_secret
