@@ -1,2 +1,26 @@
+# Dependencies and builds
+node_modules/
+.next/
+out/
+coverage/
+*.tsbuildinfo
+
+# Local configuration and credentials
 .env
-client_secret.json
+.env.*
+!.env.example
+client_secret*.json
+*.pem
+*.key
+
+# OAuth token caches - never commit these
+.cache
+.cache-*
+.spotify-cache*
+token.json
+tokens.json
+
+# Editor and operating system files
+.DS_Store
+Thumbs.db
+*.log
