@@ -23,7 +23,6 @@ type SpotifyTokenResponse = {
 };
 
 declare global {
-  // Local development session store. Production will replace this with PostgreSQL.
   var playlistPilotSpotifySessions: Map<string, SpotifySession> | undefined;
 }
 

@@ -8,7 +8,9 @@ Spotify oynatma listelerini akıllı eşleştirme, kullanıcı denetimi ve gerç
 
 ## Ürün görünümü
 
-![Playlist Pilot aktarım stüdyosu](./public/screenshots/playlist-pilot-dashboard.png)
+[![Playlist Pilot aktarım stüdyosu ve ürün demosu](./public/screenshots/playlist-pilot-dashboard.png)](./public/demo/playlist-pilot-demo.mp4)
+
+▶ **[56 saniyelik ürün demosunu izle](./public/demo/playlist-pilot-demo.mp4)**
 
 ## Öne çıkanlar
 
@@ -111,7 +113,7 @@ lib/          Spotify, YouTube, oturum ve eşleştirme katmanı
 scripts/      PowerShell ortam kurulum yardımcıları
 tests/        Eşleştirme motoru testleri
 legacy/       İlk Python prototipi
-public/       Sosyal paylaşım görseli ve statik dosyalar
+public/       Sosyal paylaşım görseli, ürün demosu ve statik dosyalar
 ```
 
 ## Not
